@@ -1,0 +1,39 @@
+.pricing-container {
+    background-color: #00102a;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .pricing-cards {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+  }
+  
+  .pricing-card {
+    background-color: #001f3f;
+    padding: 30px;
+    border-radius: 10px;
+    width: 250px;
+  }
+  
+  .pricing-card h3 {
+    margin-bottom: 20px;
+  }
+  
+  .price {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .pricing-card ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .pricing-card ul li {
+    margin-bottom: 10px;
+  }
+  

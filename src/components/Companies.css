@@ -1,0 +1,19 @@
+.companies-container {
+    background-color: #00102a;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .company-logos {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+  }
+  
+  .company-logos img {
+    height: 50px;
+    width: auto;
+  }
+  
